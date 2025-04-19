@@ -5,8 +5,8 @@ A clean, modular Java application to manage student data with persistent storage
 ## 👩‍🎓 Student Info
 
 - **Name:** Pranjali Vishwakarma  
-- **PRN:** 1234567890  
-- **Batch:** XYZ  
+- **PRN:** 2307126092  
+- **Batch:** SY AIML B1  
 
 ---
 
